@@ -1,0 +1,46 @@
+# html---project
+body{
+  background: #006699;
+
+}
+
+#sec0{
+  text-align:center;
+}
+#sec2{
+  text-align:center;
+}
+main{
+  font-size: 1.5em;
+
+}
+p{
+  text-shadow: 2px 2px 1px silver;
+}
+
+#sec3{
+  background: #99CCFF;
+  color: maroon;
+}
+
+#sec4{
+  text-align:center;
+}
+footer
+{background: teal;
+ font-family: Tahoma;
+ text-align:center;
+
+}
+
+adress{
+  font-family: Tahoma;
+}
+
+header{
+  font-size: 1.4em;
+}
+
+aside{
+  font-size: 1.5em;
+}
