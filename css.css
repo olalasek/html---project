@@ -1,0 +1,114 @@
+body{
+  background: #006699;
+
+}
+
+#sec0{
+  text-align:center;
+}
+#sec2{
+  text-align:center;
+}
+main{
+  font-size: 1.5em;
+
+}
+p{
+  text-shadow: 2px 2px 1px silver;
+}
+
+#sec3{
+  background: #99CCFF;
+  color: maroon;
+}
+
+#sec4{
+  text-align:center;
+}
+footer
+{background: teal;
+ font-family: Tahoma;
+ text-align:center;
+
+}
+
+adress{
+  font-family: Tahoma;
+}
+
+header{
+  font-size: 1.4em;
+}
+
+aside{
+  font-size: 1.5em;
+}
+............................
+body {
+        font-size:24px;
+        min-width:480px;
+        max-width:1600px;
+        border-left:1px solid gold;
+        border-right:1px solid gold;
+      }
+
+    header {
+        background-color:grey;
+        text-align:center;
+        font-size:1.6em;
+        line-height:1.5em;
+      }
+
+			h4 {
+        margin:5%;
+        padding:5%;
+			}
+      article {
+        float:left;
+        width:25%;
+        font-size:1em;
+        line-height:1.5em;
+      }
+
+      h1 p {
+        border:1px solid gold;
+        border-left:none;
+        margin:15px 0;
+        padding:15px;
+      }
+
+
+      footer {
+        clear:both;
+        background-color:gold;
+        text-align:center;
+        font-size:1.4em;
+        line-height:1.5em;
+      }
+
+      @media all and (max-width:769px) {
+        body {
+          font-size:15px;
+        }
+
+
+        #sec1 p, #sec2 p {
+          border:1px solid gold;
+        }
+      }
+    </style>
+  </head>
+
+      <div id="srodek">
+        <p>to jest środkowa kolumna układu elementów HTML</p>
+      </div>
+
+      <div id="prawy">
+        <p>prawa kolumna układu elementów HTML</p>
+      </div>
+
+      <div id="footer">stopka strony</div>
+    </div>
+
+  </body>
+</html>
